@@ -9,7 +9,7 @@
  <p>
 Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase inicial na área de tecnologia, dando meus primeiros passos no desenvolvimento de projetos. 
 
-<br>
+
 
 
 ---
@@ -39,10 +39,6 @@ Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase in
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<br>
-<br>
-<br>
-<br>
 
 
 ### 📊 Estatísticas
@@ -63,10 +59,7 @@ Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase in
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolaine-almeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<br>
-<br>
-<br>
-<br>
+
 
 
 <div>
@@ -76,5 +69,4 @@ Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase in
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kerolaine.dev@gmail.com)](mailto:kerolaine.dev@gmail.com)
 </div>
 
-<br/>
-<br/>
+
