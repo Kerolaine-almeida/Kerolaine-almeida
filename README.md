@@ -2,7 +2,7 @@
 **`Estudante de Frontend`**
 
 
-- 🌱 Estou aprendendo Front-End pelo Instituto PROA em parceiria com Serasa Experian
+- 🌱 Aprendendo Front-End pelo Transfome-se do Instituto PROA em parceiria com Serasa Experian
 
 
  ## Sobre mim 📈
