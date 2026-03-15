@@ -56,7 +56,7 @@
  <h3>Onde me encontrar </h3>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerolaine-de-almeida-a61091379)](www.linkedin.com/in/kerolaine-de-almeida-a61091379)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kerolaine.dev@g)]
+![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kerolaine.dev@g)
 </div>
 
 
