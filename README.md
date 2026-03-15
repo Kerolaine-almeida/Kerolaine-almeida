@@ -59,8 +59,9 @@ Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase in
 </p>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/github-contribution-grid-snake.svg">
+</picture>
 </picture>
 
 <div>
