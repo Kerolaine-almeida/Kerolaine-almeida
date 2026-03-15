@@ -9,6 +9,9 @@
  <p>
 Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase inicial na área de tecnologia, dando meus primeiros passos no desenvolvimento de projetos. 
 
+<br>
+
+
 ---
 ### 🤖 Linguagens e Tecnologiass que estou aprendendo 🚀
 <img
@@ -56,6 +59,7 @@ Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase in
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerolaine-almeida&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br>
 
 
 <div>
