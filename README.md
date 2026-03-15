@@ -1,8 +1,16 @@
-# 👩🏻‍💻 Kerolaine Almeida
+# 👩🏻‍💻 Olá , eu sou Kerolaine Almeida
 **`Estudante de Frontend`**
 
+
+- 🌱 Estou aprendendo Front-End pelo Instituto PROA em parceiria com Serasa Experian
+
+
+ ## Sobre mim 📈
+ <p>
+Sou <strong>Kerolaine</strong>, tenho <strong>19 anos</strong>. Estou em fase inicial na área de tecnologia, dando meus primeiros passos no desenvolvimento de projetos. Tenho grande interesse em evoluir constantemente, aprender aprimorar minhas habilidades técnicas e transformar ideias em soluções funcionais. 
+
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologiass que estou aprendendo 🚀
 <img
     align="left"
     alt="HTML"
