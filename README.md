@@ -53,12 +53,12 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/Kerolaine-almeida/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div>
  <h3>Onde me encontrar </h3>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerolaine-de-almeida-a61091379)](www.linkedin.com/in/kerolaine-de-almeida-a61091379)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kerolaine.dev@g)
+[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerolaine-de-almeida)](https://www.linkedin.com/in/kerolaine-de-almeida)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kerolaine.dev@gmail.com)](mailto:kerolaine.dev@gmail.com)
 </div>
-
 
 <br/>
 <br/>
