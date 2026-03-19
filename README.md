@@ -34,5 +34,12 @@ Sou **Kerolaine**, tenho **19 anos**. Estou em fase inicial na área de tecnolog
 - [LinkedIn](https://www.linkedin.com/in/kerolaine-de-almeida)
 - [E-mail](mailto:kerolainegon.almeida@gmail.com)
 
-- ## 🐍 Cobra das contribuições
+---
+
+## 🐍 Cobra das contribuições
 ![Snake animation](https://github.com/Kerolaine-almeida/Kerolaine-almeida/blob/output/github-contribution-grid-snake.svg)
+## Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/kerolaine-de-almeida)
+- [E-mail](mailto:kerolainegon.almeida@gmail.com)
+
+
