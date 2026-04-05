@@ -20,7 +20,6 @@ Sou **Kerolaine**, tenho **19 anos**. Estou em fase inicial na área de tecnolog
 
 <br><br>
 
-[
 
 ---
 
