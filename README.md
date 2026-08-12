@@ -1,15 +1,30 @@
-## Onde me encontrar
+# 👩🏻‍💻 Olá, eu sou Kerolaine Almeida
+**`Estudante de Front-end`**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kerolaine-de-almeida" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kerolaine.g.almeida@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Kerolaine-almeida" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+- 🌱 Aprendendo Front-end pelo *Transforme-se* do Instituto PROA em parceria com a Serasa Experian.
+
+## Sobre mim 📈
+Sou **Kerolaine**, tenho **19 anos**. Estou em fase inicial na área de tecnologia, dando meus primeiros passos no desenvolvimento de projetos.
+
+---
+
+## 🤖 Linguagens e Tecnologias que estou aprendendo 🚀
+<p>
+  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
 
+<br><br>
 
+
+---
+
+## Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/kerolaine-de-almeida)
+- [E-mail](mailto:kerolainegon.almeida@gmail.com)
+
+---
