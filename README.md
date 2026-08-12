@@ -48,9 +48,4 @@ Sou **Kerolaine**, tenho **19 anos**. Estou em fase inicial na área de tecnolog
   </a>
 </p>
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/dist/snake-dark.svg" />
-  <img alt="Animação da cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Kerolaine-almeida/Kerolaine-almeida/output/dist/snake.svg" />
-</picture>
